@@ -14,7 +14,7 @@
 
 **Today's Progress**: I worked through CSS exercises on freeCodeCamp today. I also launched my portfolio website! www.jakebfletcher.com
 
-**Thoughts:** I need to figure out how to make a few images secure in my site so that I get that green lock for SSL.
+**Thoughts:** I need to figure out how to make a few images secure so that I get that green lock for SSL.
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
 **Link to work:** [my portfolio](https://www.jakebfletcher.com)
