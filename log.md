@@ -18,3 +18,12 @@
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
 **Link to work:** [my portfolio](https://www.jakebfletcher.com)
+
+### Day 2: September 2, 2019
+#####
+
+**Today's Progress**: I completed a few more CSS exercises on freeCodeCamp today.
+
+**Thoughts:** I'm glad I reviewed this before working on my first project.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
