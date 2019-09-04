@@ -27,3 +27,12 @@
 **Thoughts:** I'm glad I reviewed this before working on my first project.
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+
+### Day 3: September 3, 2019
+#####
+
+**Today's Progress**: I completed more CSS exercises on freeCodeCamp today.
+
+**Thoughts:** I can't wait until the day when I'm coding for my day job.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
