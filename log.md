@@ -36,3 +36,12 @@
 **Thoughts:** I can't wait until the day when I'm coding for my day job.
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+
+### Day 4: September 4, 2019
+#####
+
+**Today's Progress**: I finished the Applied Visual Design section of freeCodeCamp today. I love animating stuff with code. So so much!
+
+**Thoughts:** I am still glad to be working my way back through this material. I know what I plan to do for my tribute page project this time, but it's good to be refreshing my knowledge before I get there.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
