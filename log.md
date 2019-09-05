@@ -45,3 +45,12 @@
 **Thoughts:** I am still glad to be working my way back through this material. I know what I plan to do for my tribute page project this time, but it's good to be refreshing my knowledge before I get there.
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+
+### Day 5: September 5, 2019
+#####
+
+**Today's Progress**: I got halfway through the Applied Visual Design section today.
+
+**Thoughts:** I'm very glad to be making time to code, despite my current time limitations and other activities.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
