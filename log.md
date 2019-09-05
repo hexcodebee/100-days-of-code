@@ -49,7 +49,7 @@
 ### Day 5: September 5, 2019
 #####
 
-**Today's Progress**: I got halfway through the Applied Visual Design section today.
+**Today's Progress**: I got halfway through the Applied Accessibility section today.
 
 **Thoughts:** I'm very glad to be making time to code, despite my current time limitations and other activities.
 
