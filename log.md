@@ -54,3 +54,12 @@
 **Thoughts:** I'm very glad to be making time to code, despite my current time limitations and other activities.
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+
+### Day 6: September 7, 2019
+#####
+
+**Today's Progress**: I'm one exercise away from finishing the Responsive Web Design activities, then project time!
+
+**Thoughts:** I've made some cool connections on Twitter with other developers and I'm excited to be connected to the community.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
