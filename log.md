@@ -63,3 +63,13 @@
 **Thoughts:** I've made some cool connections on Twitter with other developers and I'm excited to be connected to the community.
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+
+### Day 7: September 8, 2019
+#####
+
+**Today's Progress**: I started work on the Tribute Page project. The basic HTML skeleton has been fleshed out.
+
+**Thoughts:** I can't wait to style this thing with CSS!
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+**Link to work:** [CodePen pen](https://codepen.io/hexcodebee/pen/jONZzjp)
