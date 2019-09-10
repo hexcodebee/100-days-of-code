@@ -73,3 +73,14 @@
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
 **Link to work:** [CodePen pen](https://codepen.io/hexcodebee/pen/jONZzjp)
+
+
+### Day 8: September 9, 2019
+#####
+
+**Today's Progress**: More work on the Tribute Page today.
+
+**Thoughts:** I'm excited to be working on this project and I can't wait to submit it.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+**Link to work:** [CodePen pen](https://codepen.io/hexcodebee/pen/jONZzjp)
