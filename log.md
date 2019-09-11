@@ -84,3 +84,23 @@
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
 **Link to work:** [CodePen pen](https://codepen.io/hexcodebee/pen/jONZzjp)
+
+### Day 8: September 9, 2019
+#####
+
+**Today's Progress**: More work on the Tribute Page today.
+
+**Thoughts:** I'm excited to be working on this project and I can't wait to submit it.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+**Link to work:** [CodePen](https://codepen.io/hexcodebee)
+
+### Day 9: September 10, 2019
+#####
+
+**Today's Progress**: I finished the Tribute Page! Next, I'm making a .io page here on GitHub to host all of my portfolio projects from freeCodeCamp.
+
+**Thoughts:** Finally completing a project is a big victory. I feel great about coding pretty much every day. I think this challenge is a lot of fun and I've already met so many great developers on Twitter!
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+**Link to work:** [CodePen](https://codepen.io/hexcodebee)
