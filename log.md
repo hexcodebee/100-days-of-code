@@ -104,3 +104,14 @@
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
 **Link to work:** [CodePen](https://codepen.io/hexcodebee)
+
+### Day 10: September 11, 2019
+#####
+
+**Today's Progress**: Major progress today! I set up GitHub Desktop and created a page for my portfolio work and linked my Tribute Page project on it!
+
+**Thoughts:** I'm excited to work on the next project already! It was cool to be able to use a CDN too.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+**Link to work:** [GitHub portfolio for freeCodeCamp projects](https://hexcodebee.github.io)
+**Link to work:** [Tribute page project](https://hexcodebee.github.io/tribute/index.html)
