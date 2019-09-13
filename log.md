@@ -115,3 +115,13 @@
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
 **Link to work:** [GitHub portfolio for freeCodeCamp projects](https://hexcodebee.github.io)
 **Link to work:** [Tribute page project](https://hexcodebee.github.io/tribute/index.html)
+
+### Day 11: September 12, 2019
+#####
+
+**Today's Progress**: Started work on my Survey Form project today!
+
+**Thoughts:** Also, my web dev laptop stickers arrived. I had some fun with that today!
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+**Link to work:** [GitHub portfolio for freeCodeCamp projects](https://hexcodebee.github.io)
