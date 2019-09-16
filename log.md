@@ -125,3 +125,13 @@
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
 **Link to work:** [GitHub portfolio for freeCodeCamp projects](https://hexcodebee.github.io)
+
+### Day 11: September 12, 2019
+#####
+
+**Today's Progress**: Life has been busy the last few days. I learned I LOVE Ikea and putting together desks and chairs for our home office. 😆 But, back to coding updates: I continued working on my Survey Form project today.
+
+**Thoughts:** Where did the weekend GO?
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+**Link to work:** [GitHub portfolio for freeCodeCamp projects](https://hexcodebee.github.io)
