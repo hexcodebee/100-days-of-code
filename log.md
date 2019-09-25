@@ -145,3 +145,13 @@
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
 **Link to work:** [GitHub portfolio for freeCodeCamp projects](https://hexcodebee.github.io)
+
+### Day 14: September 24, 2019
+#####
+
+**Today's Progress**: Worked on the HTML section of my Survey Form project.
+
+**Thoughts:** I talked to a new coworker about coding and how much fun it is to do!
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+**Link to work:** [GitHub portfolio for freeCodeCamp projects](https://hexcodebee.github.io)
