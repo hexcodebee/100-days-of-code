@@ -155,3 +155,13 @@
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
 **Link to work:** [GitHub portfolio for freeCodeCamp projects](https://hexcodebee.github.io)
+
+### Day 15: October 1, 2019
+#####
+
+**Today's Progress**: Worked on the Survey Form project.
+
+**Thoughts:** Last Thursday, I lost my precious cat of 11 years (Pandora), so I've been refocusing lately. Feeling a bit more up to diving back in now.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+**Link to work:** [GitHub portfolio for freeCodeCamp projects](https://hexcodebee.github.io)
