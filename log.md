@@ -165,3 +165,13 @@
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
 **Link to work:** [GitHub portfolio for freeCodeCamp projects](https://hexcodebee.github.io)
+
+### Day 16: October 7, 2019
+#####
+
+**Today's Progress**: Worked on the Survey Form project.
+
+**Thoughts:** I love working from home for my day job. We have two new kitty friends in our home now. Things are getting more normal again, and different in better ways.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+**Link to work:** [GitHub portfolio for freeCodeCamp projects](https://hexcodebee.github.io)
