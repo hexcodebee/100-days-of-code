@@ -175,3 +175,23 @@
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
 **Link to work:** [GitHub portfolio for freeCodeCamp projects](https://hexcodebee.github.io)
+
+### Day 17: October 8, 2019
+#####
+
+**Today's Progress**: Worked on the Survey Form project.
+
+**Thoughts:** I bought a new domain name for my writing site! I can't wait to work on that project.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+**Link to work:** [GitHub portfolio for freeCodeCamp projects](https://hexcodebee.github.io)
+
+### Day 18: October 9, 2019
+#####
+
+**Today's Progress**: Worked on the Survey Form project.
+
+**Thoughts:** Working from home continues to go well. I'm excited to get through more freeCodeCamp projects and personal work.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/hexcodebee)
+**Link to work:** [GitHub portfolio for freeCodeCamp projects](https://hexcodebee.github.io)
